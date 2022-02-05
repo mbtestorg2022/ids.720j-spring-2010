@@ -6,22 +6,255 @@ uid: 028045c0-89f3-d6ea-bdc7-1cb3f9bf75f0
 
 This table provides information about both the lecture (L) and recitation (R) sessions.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Introduction: course organization and learning objectives, uncertainty exercise, Garage case concepts | &nbsp; |
-| L2 | Discounting: standard and certainty-equivalence | Project selection specification due |
-| R1 | Review of groups and projects | &nbsp; |
-| L3 | Economic model of options applied to real estate | &nbsp; |
-| L4 | Economic model of options (cont.): underlying asset dynamics and GIGO issues | &nbsp; |
-| R2 | Discussion of uncertainties in your projects | &nbsp; |
-| L5 |  {{< br >}}{{< br >}} Design structure matrix (DSM) {{< br >}}{{< br >}} Identification of points of flexibility {{< br >}}{{< br >}}  | Project uncertainties report due |
-| L6 |  {{< br >}}{{< br >}} DSM follow-up {{< br >}}{{< br >}} Discussion of development process {{< br >}}{{< br >}}  | &nbsp; |
-| R3 | DSM questions and answers | &nbsp; |
-| L7 | Garage case: detailed analysis and exposition of "engineering analysis approach" | Project road map due |
-| R4 |  {{< br >}}{{< br >}} Practical workshop on mechanics {{< br >}}{{< br >}} How pdfs work in Excel {{< br >}}{{< br >}}  | &nbsp; |
-| L8 |  {{< br >}}{{< br >}} Multidimensional evaluation {{< br >}}{{< br >}} Satellite fleet case {{< br >}}{{< br >}}  | &nbsp; |
-| L9 |  {{< br >}}{{< br >}} Discussion of Monte Carlo analyses {{< br >}}{{< br >}} Workshop on finalizing your reports {{< br >}}{{< br >}}  | Project Monte Carlo analysis due |
-| R5 | Experiment results presentation | &nbsp; |
-| L10 | Flexibility in real estate development – case examples of vertical and horizontal expansion | &nbsp; |
-| L11 | Scheduled reviews with teams: what does your model teach us? | Project draft final reports due |
-| L12 | Team presentations | Project final report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: course organization and learning objectives, uncertainty exercise, Garage case concepts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Discounting: standard and certainty-equivalence
+{{< tdclose >}}
+{{< tdopen >}}
+Project selection specification due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Review of groups and projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Economic model of options applied to real estate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Economic model of options (cont.): underlying asset dynamics and GIGO issues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of uncertainties in your projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design structure matrix (DSM)
+
+Identification of points of flexibility
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Project uncertainties report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+DSM follow-up
+
+Discussion of development process
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+DSM questions and answers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Garage case: detailed analysis and exposition of "engineering analysis approach"
+{{< tdclose >}}
+{{< tdopen >}}
+Project road map due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Practical workshop on mechanics
+
+How pdfs work in Excel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Multidimensional evaluation
+
+Satellite fleet case
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of Monte Carlo analyses
+
+Workshop on finalizing your reports
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Project Monte Carlo analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Experiment results presentation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Flexibility in real estate development – case examples of vertical and horizontal expansion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Scheduled reviews with teams: what does your model teach us?
+{{< tdclose >}}
+{{< tdopen >}}
+Project draft final reports due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Team presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Project final report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
